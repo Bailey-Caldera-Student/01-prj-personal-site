@@ -114,6 +114,13 @@ main {
     transform: translateY(-4px);
 }
 
+/*===== Command ===== */
+.command {
+    color: #3fb950;
+    margin-bottom: 12px;
+    font-size: 0.95rem;
+}
+
 /* ===== Footer ===== */
 
 footer {
