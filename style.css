@@ -96,6 +96,24 @@ main {
     transition: all 0.3s ease;
 }
 
+.file-panel p {
+    margin-bottom: 18px;
+}
+
+.file-panel p:last-child {
+    margin-bottom: 0;
+}
+
+.file-panel h3 {
+    margin-top: 25px;
+    margin-bottom: 10px;
+    color: #e6edf3;
+}
+
+.file-panel h3:first-of-type {
+    margin-top: 20px;
+}
+
 .file-panel h2 {
     color: #3fb950;
     margin-bottom: 15px;
@@ -113,6 +131,8 @@ main {
     border-color: #3fb950;
     transform: translateY(-4px);
 }
+
+
 
 /*===== Command ===== */
 .command {
